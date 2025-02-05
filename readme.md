@@ -1,5 +1,10 @@
 # HTML Obfuscator
 
+Enquiry TG: https://t.me/demlinks
+TG Community: https://t.me/demlinkschannel
+Discord Community: https://discord.gg/UEmCAbhz9W
+
+
 Simple python tool to help you obfuscate/deobfuscate your HTML code quickly.
 
 Manual tools also included.
